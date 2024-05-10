@@ -1,1 +1,1 @@
-# CodTech-Task2-AI-chatbot
+# CodTech-Task1-AI-chatbot
